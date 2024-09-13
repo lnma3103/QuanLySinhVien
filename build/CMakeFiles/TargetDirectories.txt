@@ -1,0 +1,3 @@
+D:/Workspace/Timetable/build/CMakeFiles/MyAnh.dir
+D:/Workspace/Timetable/build/CMakeFiles/edit_cache.dir
+D:/Workspace/Timetable/build/CMakeFiles/rebuild_cache.dir

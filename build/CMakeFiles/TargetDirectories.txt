@@ -1,0 +1,3 @@
+D:/Workspace/Quan_Ly_Sinh_Vien_Struct/build/CMakeFiles/MyAnh.dir
+D:/Workspace/Quan_Ly_Sinh_Vien_Struct/build/CMakeFiles/edit_cache.dir
+D:/Workspace/Quan_Ly_Sinh_Vien_Struct/build/CMakeFiles/rebuild_cache.dir
